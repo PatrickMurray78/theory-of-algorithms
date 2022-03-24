@@ -58,8 +58,14 @@ Jupyter Lab is a web-based interactive development environment for notebooks, co
 Anaconda is an open-source package and environment management system which already comes with many of the libraries that will need to be installed manually if you choose to install this project via Python, however if you do not use Python regularly it is better practice to install via Python as it will take up much less space on your device as you will not be installing the countless libraries Anaconda provides that you will never use.
 
 ## How to Install
+1. Open CMD (Command Prompt) or a terminal window and navigate to the location where you want to clone this repository.
+2. Type `git clone https://github.com/PatrickMurray78/theory-of-algorithms` and press Enter.
+3. The repository should now be cloned.
 
 ## How to Run
+1. Open CMD (Command Prompt) or a terminal window and navigate to the location where you cloned this repository.
+2. Type `jupyter lab`.
+3. Jupyter Lab will then launch in your browser, you can edit the notebooks and run them as you wish.
 
 ## References
 * Dr.Ian McLoughlin (Lecturer) https://github.com/ianmcloughlin
