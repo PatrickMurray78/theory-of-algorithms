@@ -19,6 +19,7 @@ This repository is a project demonstrating that I have achieved the learning out
 - [Technologies used](#Technologies-used)
 - [How to Install](#How-to-install)
 - [How to Run](#How-to-run)
+- [Quick Steps](#Quick-steps)
 - [References](#References)
 
 ## About the Project
@@ -58,14 +59,22 @@ Jupyter Lab is a web-based interactive development environment for notebooks, co
 Anaconda is an open-source package and environment management system which already comes with many of the libraries that will need to be installed manually if you choose to install this project via Python, however if you do not use Python regularly it is better practice to install via Python as it will take up much less space on your device as you will not be installing the countless libraries Anaconda provides that you will never use.
 
 ## How to Install
-1. Open CMD (Command Prompt) or a terminal window and navigate to the location where you want to clone this repository.
+1. Open CMD (Command Prompt) or a terminal window and navigate to the location where you want to clone this repository. 
 2. Type `git clone https://github.com/PatrickMurray78/theory-of-algorithms` and press Enter.
 3. The repository should now be cloned.
 
 ## How to Run
+1. <b>Anaconda</b> must be installed. You can run `conda info` to check. If it is not installed, you can install it from the following [link](https://www.anaconda.com/).
 1. Open CMD (Command Prompt) or a terminal window and navigate to the location where you cloned this repository.
 2. Type `jupyter lab`.
 3. Jupyter Lab will then launch in your browser, you can edit the notebooks and run them as you wish.
+
+## Quick Steps
+| **Post Correspondence Problem** | **Countdown**|
+| ------------- |:-------------:|
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PatrickMurray78/theory-of-algorithms/blob/main/post-correspondence.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PatrickMurray78/theory-of-algorithms/blob/main/countdown.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PatrickMurray78/theory-of-algorithms/7399f50afde8f962dc79d3ca139c2b1f4b3afe5a) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PatrickMurray78/theory-of-algorithms/7399f50afde8f962dc79d3ca139c2b1f4b3afe5a)
+
 
 ## References
 * Dr.Ian McLoughlin (Lecturer) https://github.com/ianmcloughlin
